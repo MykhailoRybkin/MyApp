@@ -1,0 +1,1 @@
+﻿insert into loginForm (Name, pass) VALUEs (1,1);
